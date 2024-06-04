@@ -8,3 +8,5 @@ Steps:
 3.Click install
 
 4.Done
+
+Note: Mincrosoft defender detects this as a trojan idk why, so maybe try to allow this file to open.
