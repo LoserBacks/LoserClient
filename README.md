@@ -9,4 +9,4 @@ Steps:
 
 4.Done
 
-Note: Mincrosoft defender detects this as a trojan idk why, so maybe try to allow this file to open or disabkle your anti virus.
+Note: Mincrosoft defender detects this as a trojan idk why, so maybe try to allow this file to open or disable your anti virus.
